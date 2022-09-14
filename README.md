@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rishabh Chopade
-- 👀 I’m interested in developing unique and useful application
+- 👀 I’m interested in developing helpful and useful application
 - 🌱 I’m currently learning React,Node,DSA and Databases
 
 <!---
